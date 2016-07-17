@@ -8,6 +8,7 @@ Una volta preparato l'ambiente di sviluppo scelto, tutto quello che serve è ese
 
 ```bash
 $ composer install
+$ artisan key:generate
 $ artisan migrate --seed
 ```
 
